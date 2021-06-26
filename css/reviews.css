@@ -62,3 +62,11 @@ flex-wrap: wrap;
     color: #777777;
     
 }
+
+@media screen and (min-width: 1024px){
+    .headtitle_review{
+   
+        font-size: 20px;
+        
+    }     
+}
