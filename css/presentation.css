@@ -1,0 +1,54 @@
+.presentation{
+    width: 280px;
+    background-color: lightgray;
+    margin: 0 auto;
+   text-align: center;
+   height: 350px;
+   padding: 0 10px 0 10px;
+}
+.video_button{
+    background-image: url(../images/play.svg);
+    background-color: transparent;
+    width: 60px;
+    height: 60px;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    border: transparent;
+    margin-bottom: 20px;
+}
+.head_title{
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+font-size: 22px;
+line-height: 1.2;
+font-weight: 700;
+color: #333333;
+text-transform: uppercase;
+
+}
+.title{
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+ font-size: 30px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: -0.025em;
+color: #222222;
+}
+.video_description{
+    font-family: 'Roboto Slab';
+    font-size: 15px;
+    line-height: 1.2;
+    font-weight: 400;
+    letter-spacing: -0.025em;
+    color: #777777;
+}
+
+.line{
+    width: 321px;
+    transform: translate(-10%);
+    margin: 0px;
+    height: 1px;
+    background-color: #777777;
+    margin-top: 60px;
+}
